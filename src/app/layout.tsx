@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "JSON Processor",
     description: "Format and validate JSON with ease",
-    url: "https://json_processor.fortunezviregei.com",
+    url: "https://jsonprocessor.fortunezviregei.com",
     siteName: "JSON Processor",
   },
   twitter: {

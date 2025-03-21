@@ -61,7 +61,7 @@ npm run dev
 
 ## 🚀 Live Demo
 
-Check out the live demo: [JSON Processor Demo](https://json_processor.fortunezviregei.com)
+Check out the live demo: [JSON Processor Demo](https://jsonprocessor.fortunezviregei.com)
 
 ## 🤝 Contributing
 
